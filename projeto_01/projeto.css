@@ -1,0 +1,17 @@
+p {
+    background-color: rgb(87, 223, 19);
+    font-size: 25px
+}
+
+label {
+    font-size: 40px;
+    background-color: chartreuse;
+}
+
+div {
+    background-color: yellow;
+}
+
+div p {
+    background-color: rgb(186, 227, 212);
+}

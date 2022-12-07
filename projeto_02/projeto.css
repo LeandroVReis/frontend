@@ -1,0 +1,39 @@
+body {
+    font-size: 24px;
+    background-color: rgb(0, 221, 255);
+}
+
+p {
+    background-color: rgb(0, 157, 255);
+}
+
+div p {
+    background-color: rgb(186, 227, 212);
+}
+
+#paragrafo01 {
+    background-color: rgb(255, 0, 195);
+}
+
+#paragrafo02 {
+    background-color: maroon;
+}
+
+.fundoAzul {
+    background-color: blue;
+}
+
+.font35px {
+    font-size: 35px;
+}
+
+.fontStyle {
+    font-style: oblique;
+}
+
+.systemLabel {
+
+    font-size: 35px;
+    font-style: italic;
+    background-color: rgb(242, 255, 0);
+}
